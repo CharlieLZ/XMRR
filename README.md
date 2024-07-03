@@ -52,6 +52,427 @@ $ grep -nri [search term] docs | cat --number
 
 ### **June**
 
+---
+title: MRR.report (004) | A Challenge One Week to Make $100 Online
+date: 2024-06-28
+---
+
+
+
+## IV. MRR Updates from X
+
+#####  4.1 blakea.co
+
+Blake Anderson @blakeandersonw · Jun 25: 
+
+[$0 to $5 million revenue in 12 months.](https://x.com/blakeandersonw/status/1805396849039392802)
+
+![Started this journey 100% broke.](https://pbs.twimg.com/media/GQ4NzLoaEAAsEIL?format=png&name=1900x1900)
+
+Almost immediately we did 200k downloads on $100 ad spend.
+
+RizzGPT quickly scaled up to $200k/month and has been steady ever since. Renamed to PlugAI.
+
+---
+
+In our first three months, we went from 100k MRR to 200k MRR to 500k MRR.
+
+Since then, we have remained around 500k MRR.
+
+I launched my third app about 2 months ago and we are at 100k in June.
+
+
+
+##### 4.2 AutoShorts.ai $70K MRR - NicheScraper: $30K MRR - CopyGenius.io: $20K MRR
+
+Eric Smith @ericsmith1302 · July 2: 
+
+[$70K MRR 🚀 An update.](https://x.com/ericsmith1302/status/1807851248449622239)
+
+Dec 20th: Idea formed.
+Feb 1st: First subscriber.
+Feb 28th: 1K MRR.
+March 16th: 2K MRR.
+… 
+May 5th: 30K MRR.
+June 27th: 70K MRR.
+
+![](https://pbs.twimg.com/media/GRbFS63XAAA2HRY?format=png&name=900x900)
+
+
+##### 4.3 jenni.ai davidpark.io
+
+David Park @Davidjpark96 · July 2: 
+
+[End of June update: $533k MRR](https://x.com/Davidjpark96/status/1807907048182669783)
+
+![MRR growth has slowed due to summer break, but churn is down (-5.2%), LTV is up (6.6%), and retention is up (~3%)](https://pbs.twimg.com/media/GRb4UI-b0AAbAlZ?format=png&name=1900x1900)
+
+
+##### 4.4 tenderpanel.com
+
+ackson Ling @jackson_llk · July 1: 
+
+[Churn was brutal in June 😖. ](https://x.com/jackson_llk/status/1807631104436064469)
+
+![Gotta keep it real.](https://pbs.twimg.com/media/GRX-50ebAAAhEAR?format=jpg&name=900x900)
+
+
+##### 4.5 supastarter.dev
+
+Jonathan Wilke @jonathan_wilke · Jun 30: 
+
+[June report for supastarter: $10.9k revenue](https://x.com/jonathan_wilke/status/1807429396279464099)
+
+![Lets get this to 15k next month 🚀](https://pbs.twimg.com/media/GRVHdKPWAAAvipj?format=jpg&name=medium)
+
+
+
+##### 4.6 ai2sql.io
+
+Mustafa Ergisi @mustafaergisi July 1: 
+
+[June 2024 Update](https://x.com/mustafaergisi/status/1807750261584073029)
+
+📈 MRR: $7K (from $3,564 in June 2023) 😱
+👥 About 600 active subscribers
+📉 Churn: 6.13%, showing strong customer retention
+🎯 Next milestone: $100K ARR! 
+
+![](https://pbs.twimg.com/media/GRZqFSgXYAArxJ3?format=jpg&name=900x900)
+
+
+
+##### 4.7 easygen.io
+
+Ruben Hassid @RubenHssd · Jun 30: 
+
+[EasyGen updates:](https://x.com/rubenhssd/status/1807421345900163164?s=46&t=MPyrPCT8-sid5okjbfz70w)
+
+MRR: $9,128,66
+Line of code I know: 0
+Outside investment: $0
+Days since launch: 92
+
+![ added payments 10 days ago](https://pbs.twimg.com/media/GRVAImBXIAEQeuR?format=jpg&name=900x900)
+
+
+
+##### 4.8 ⚡️ animstats.com (🟩 $1.4k MRR) 💥 tweetloom.com (🟥 failed)
+
+Audiencon⚡️@audiencon · July 1: 
+
+[June update](https://x.com/astrooed/status/1804907525156024498)
+
+💰 ARR: $14,111 (-15.26%)
+🙋‍♂️ New users: 1931
+🤑 New paying customers: 4
+😭 Churned customers: 30
+
+![June was a wild one! We lost some longtime users 😔](https://pbs.twimg.com/media/GRYV6EFWEAAlMOL?format=jpg&name=900x900)
+
+
+
+##### 4.9  aidirectori.es
+
+Sergiu 🤖 AI Directories @s_chiriac · July 1: 
+
+[🎉 Happy Monday, everyone! Here's the June Recap for AI Directories:](https://x.com/s_chiriac/status/1807695859917722051)
+
+💰 Over $7600 in revenue!
+👥 100+ Customers
+🐦 Nearly 400 new followers on Twitter
+🖥️ 5K Website Visits
+
+![What an incredible month! Looking forward to even more success in July! #buildinpublic](https://pbs.twimg.com/media/GRY4d6EW0AAIJ6-?format=jpg&name=900x900)
+
+
+
+##### 4.10  Backlinker.AI
+
+Bennett | Build In Public | AI SAAS SEO Founder @influencer_seo · July 1: 
+
+[Finishing June strong at $11.2K per month! #buildinpublic](https://x.com/influencer_seo/status/1807617836380246259)
+
+![](https://pbs.twimg.com/media/GRXyuWPagAA0xpm?format=png&name=900x900)
+
+
+[Backlinker AI just hit $50k revenue in 10 months. Currently sitting at $10k MRR 😀😀](https://x.com/influencer_seo/status/1805737745182343661/photo/1)
+
+![](https://pbs.twimg.com/media/GQ9EttUaQAAs_vv?format=jpg&name=large)
+
+
+[Here's the one word answer to how I grew my revenue to $10K Monthly Recurring Revenue as an Agency!](https://x.com/influencer_seo/status/1806402002215481832/)
+
+**Whitelabel!**
+
+White label SEO is a cost-effective strategy that allows an agency to offer SEO services to clients using third-party tools and services under their own name.
+
+
+![](https://pbs.twimg.com/media/GRGgfltbQAAi8EK?format=jpg&name=large)
+
+
+##### 4.11 $580 / mo - waitforit.me 💜 (free) - quillcap.me
+
+Abishek⚡@eter_inquirer July 1: 
+
+[month 6 of indiehacking after my 9-5 - update 👇](https://x.com/eter_inquirer/status/1807791427801477121)
+
+💰 $590 / mo
+💜 12 new customers
+👀 10k visits
+🧑‍🤝‍🧑 900+ users
+
+quillcap
+💰 $0 (free)
+👀 2k views
+🧑‍🤝‍🧑 500 users
+
+![$0-$2.6k MRR in 4 weeks 🎉](https://pbs.twimg.com/media/GQRvJpIaYAAgGKU?format=jpg&name=large)
+
+
+[update - we're $90 away from $500 in revenue this month 😭🙏💜](https://x.com/eter_inquirer/status/1805256843692048568/)
+
+![](https://pbs.twimg.com/media/GQ2PiGgaoAA5Asy?format=jpg&name=medium)
+
+##### 4.12 slidy.app creatifly.co
+
+Kumail Nanji @KumailNanji July 2: 
+
+[These last 6 months have been life changing 🤯](https://x.com/KumailNanji/status/1807836747834831077)
+
+I've gained:
+👀 4M Impressions
+🤝 2K+ Followers
+💸 $27K+ from 𝕏
+
+![ ](https://pbs.twimg.com/media/GRa0xQIb0AMh-nv?format=jpg&name=900x900)
+
+
+
+##### 4.13 Apps: habitkit @liftbearapp  @windiaryapp
+    
+Sebastian Röhl @SebastianRoehl Jul 1: 
+
+[Here is the revenue and MRR breakdown for my app business in June:](https://x.com/iamfredrik_/status/1803327824872226942)
+
+💰 $13,605 revenue (-8%)
+💸 $6,981 MRR (0%)
+👥 9015 subscribers (+1%)
+
+![](https://pbs.twimg.com/media/GRYmJ1ma0AAL_Z3?format=jpg&name=900x900)
+
+
+
+##### 4.14 Pingify.com - Website Monitoring 💬 ReplyPulse.com - Scale your X/LinkedIn   Newsletter →devartisan.com
+    
+Venelin K. @venelinkochev Jul 1: 
+
+[My indie hacking journey](https://x.com/venelinkochev/status/1807761870066991354/photo/1)
+
+April 2024: $0 MRR
+May 2024: $0 MRR
+June 2024: $18.50 MRR 🚀
+
+Making some progress
+
+![](https://pbs.twimg.com/media/GRZ08HtaQAAhcn_?format=jpg&name=medium)
+
+
+
+##### 4.15 colorbliss.com
+
+Ben Robertson | The Coloring Page Kingpin @benrobertsonio july 2: 
+
+[My June 2024 #buildinpublic report for the coloring crew](https://x.com/benrobertsonio/status/1807837118917460252)
+
+💰 $3794 MRR (+$763), 25% growth rate
+🫂 270 total customers (121 new, 69 churned)
+ 🌎 30k website visitors (down 37%)
+🖼️ 59,587 coloring pages created (up 23%)
+
+![Why did traffic drop? 👇](https://pbs.twimg.com/media/GRa6RvvWQAAoEfI?format=jpg&name=900x900)
+
+
+
+##### 4.16 framer.com
+
+Arun K @arunspacek Jun 27: 
+
+[My @framer template 'Endless' was published last month. It crossed $1,000 in revenue.](https://x.com/arunspacek/status/1806197300106297503)
+
+![](https://pbs.twimg.com/media/GRDjE4QbcAAvyFa?format=jpg&name=large)
+
+
+##### 4.17  Laravel SaaS Starter Kit larafast.com ($26K+ rev) 🐌 To help you build faster! Directory for SaaS: bikemat.es 🏍️ Product Hunt Launches: phlaunches.com 🚀
+
+Serg @karakhanyanS July 1: 
+
+[#buildinpublic update for June for Larafast Seems everyones stats are down in June.](https://x.com/karakhanyanS/status/1807679792449560821)
+
+
+![Let's work hard on July.](https://pbs.twimg.com/media/GRYrMI-aEAA-Dcr?format=jpg&name=large)
+
+
+
+
+##### 4.18  aimarketplace.pro
+
+Maria@Mariintheworld Jan 25: 
+
+[After launching on Product Hunt, I got my first real order for $49 (the other order was a test, making the total revenue $148).](https://x.com/Mariintheworld/status/1750327196085100873)
+
+![](https://pbs.twimg.com/media/GEpoYaEbQAAymWV?format=jpg&name=large)
+
+
+
+
+##### 4.19 blacktwist.app 
+
+Luca Restagno 🐢 shipped.club @ikoichi Junly 2:
+
+[The first MRR of a new SaaS always hits differently](https://x.com/ikoichi/status/1808078167632236721)
+
+![](https://pbs.twimg.com/media/GReVgrbaQAA0AJd?format=jpg&name=large)
+
+
+
+
+##### 4.20 DesignUp.net
+
+Emy@EmyLascan July 2:
+
+[Design Subscription MRR: $57K (decline) Fixed projects price: $35K](https://x.com/EmyLascan/status/1808053358059741582/)
+
+
+![](https://pbs.twimg.com/media/GRd-8jwb0AIX2b0?format=jpg&name=medium)
+
+
+
+
+##### 4.21 unihosted.com simpleanalytics.com
+
+
+Iron 📊 @IronBrands16 July 2
+
+[Decided to do some more "Build in public" updates.](https://x.com/IronBrands16/status/1808094797900701985)
+
+3 months ago:
+📈 $1100 MRR
+👩‍💻 500+ users
+🌀 2300 Devices
+
+Now:
+📈 $3500 MRR (One deal not yet included in dashboard)
+👩‍💻 1600+ users
+🌀 5936 Devices
+
+![](https://pbs.twimg.com/media/GRecZAWbsAAabEb?format=jpg&name=900x900)
+
+
+
+##### 4.22 Dub.co
+
+Steven Tey @steventey July 2: 
+
+[June was a fantastic month](https://x.com/steventey/status/1807803610589474823)
+
+◆ Clicks tracked → 6.1M
+◆ Links created → 37K
+◆ Total active domains → 3,509
+◆ MRR is up by 20% – we also hit an all-time high in monthly sales 🚀
+
+![](https://pbs.twimg.com/media/GRabzQ5aYAAKgMv?format=jpg&name=900x900)
+
+
+
+
+##### 4.23  Turned the @cokedupoptionsmeme account into a $40k/month content agency and sold it  | solowriters.com
+
+Charlie Light @charliewrich · Jun 24: 
+
+[I just grew my new startup to 3 figures in MRR in just 3 days](https://x.com/charliewrich/status/1805243417552695524)
+
+At this rate, we'll be a 12-figure MRR business by next week
+
+That's $100 billion in monthly revenue
+
+This startup stuff is too easy
+
+![](https://pbs.twimg.com/media/GQ2C1BPXMAAb4GX?format=png&name=small)
+
+
+
+
+##### 4.24 likesaintcash.com
+
+JK Molina @OneJKMolina Jun25:
+
+[The Numbers Behind an $84,000 MRR Business With Just 1 VA](https://x.com/OneJKMolina/status/1805587432148005019)
+
+![](https://pbs.twimg.com/media/GQ68MItWQAAyeAw?format=png&name=900x900)
+
+
+
+
+
+##### 4.25 calorieasy.app
+
+Tim Wong @t31kx: 
+
+[Finally my turn to share some MRR screenshots 😍](https://x.com/t31kx/status/1806609474322669907)
+
+![](https://pbs.twimg.com/media/GRJdvZgagAACiwU?format=png&name=small)
+
+
+
+
+##### 4.26 
+
+Nico@nico_jeannen July 2: 
+
+[I just sold my startup Talknotes for $200,000 ](https://x.com/nico_jeannen/status/1808130671493406761)
+
+I launched it last August when I was looking for an idea I could grow with paid ads, and made a MVP in one week.
+
+I took it from $0 to $7500 MRR in just 11 months.
+
+💡 Idea: 
+I got the idea when I tried to write a tweet using Google Doc's transcription tool, but it was terrible. 
+
+
+✅ Validation:
+My rule is to only reinvest what the project generates, so, no ads until I make enough cashflow ❌
+
+Listing on startup directories + a few Twitter sales generated $700 after 10 days. 
+
+It got Product of the Day and reached $1500 MRR thanks to the media coverage 🚀🚀
+
+
+The strategy is simple:
+Catch people's attention, and show them how the app can help them improve their life. No need to over-complicate 🙅‍♂️
+
+
+Thanks to the boost in traffic, I implemented a feedback loop:
+1) Get new users 👥
+2) Learn to know them with the onboarding form 💬
+3) Make more ads based on the data you get from onboarding 📝
+
+And it completely blew up. MRR doubled in ~2 months
+
+
+Surprisingly, doing absolutely nothing is 10x more exhausting than working 15h per day 🥱
+
+
+I launched over 40 projects in those 7 years, and most of them failed. But a few took off, and that’s all I needed
+
+
+You only need to win once to snowball everything. Work hard, focus, fail a lot and keep shipping fast. 🚀🚀
+
+
+
+
+
 
 ---
 title: MRR.report (003) | $0->$2.6k MRR in 4 weeks 🎉

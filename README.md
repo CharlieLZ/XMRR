@@ -97,7 +97,7 @@ March 16th: 2K MRR.
 May 5th: 30K MRR.
 June 27th: 70K MRR.
 
-![](https://pbs.twimg.com/media/GRbFS63XAAA2HRY?format=png&name=900x900)
+![](https://pbs.twimg.com/media/GRbFS63XAAA2HRY?format=png&name=small)
 
 
 ##### 4.3 jenni.ai davidpark.io
@@ -115,7 +115,7 @@ ackson Ling @jackson_llk · July 1:
 
 [Churn was brutal in June 😖. ](https://x.com/jackson_llk/status/1807631104436064469)
 
-![Gotta keep it real.](https://pbs.twimg.com/media/GRX-50ebAAAhEAR?format=jpg&name=900x900)
+![Gotta keep it real.](https://pbs.twimg.com/media/GRX-50ebAAAhEAR?format=jpg&name=small)
 
 
 ##### 4.5 supastarter.dev
@@ -124,7 +124,7 @@ Jonathan Wilke @jonathan_wilke · Jun 30:
 
 [June report for supastarter: $10.9k revenue](https://x.com/jonathan_wilke/status/1807429396279464099)
 
-![Lets get this to 15k next month 🚀](https://pbs.twimg.com/media/GRVHdKPWAAAvipj?format=jpg&name=medium)
+![Lets get this to 15k next month 🚀](https://pbs.twimg.com/media/GRVHdKPWAAAvipj?format=jpg&name=small)
 
 
 
@@ -139,7 +139,7 @@ Mustafa Ergisi @mustafaergisi July 1:
 📉 Churn: 6.13%, showing strong customer retention
 🎯 Next milestone: $100K ARR! 
 
-![](https://pbs.twimg.com/media/GRZqFSgXYAArxJ3?format=jpg&name=900x900)
+![](https://pbs.twimg.com/media/GRZqFSgXYAArxJ3?format=jpg&name=small)
 
 
 
@@ -154,7 +154,7 @@ Line of code I know: 0
 Outside investment: $0
 Days since launch: 92
 
-![ added payments 10 days ago](https://pbs.twimg.com/media/GRVAImBXIAEQeuR?format=jpg&name=900x900)
+![ added payments 10 days ago](https://pbs.twimg.com/media/GRVAImBXIAEQeuR?format=jpg&name=small)
 
 
 
@@ -169,7 +169,7 @@ Audiencon⚡️@audiencon · July 1:
 🤑 New paying customers: 4
 😭 Churned customers: 30
 
-![June was a wild one! We lost some longtime users 😔](https://pbs.twimg.com/media/GRYV6EFWEAAlMOL?format=jpg&name=900x900)
+![June was a wild one! We lost some longtime users 😔](https://pbs.twimg.com/media/GRYV6EFWEAAlMOL?format=jpg&name=small)
 
 
 
@@ -184,7 +184,7 @@ Sergiu 🤖 AI Directories @s_chiriac · July 1:
 🐦 Nearly 400 new followers on Twitter
 🖥️ 5K Website Visits
 
-![What an incredible month! Looking forward to even more success in July! #buildinpublic](https://pbs.twimg.com/media/GRY4d6EW0AAIJ6-?format=jpg&name=900x900)
+![What an incredible month! Looking forward to even more success in July! #buildinpublic](https://pbs.twimg.com/media/GRY4d6EW0AAIJ6-?format=jpg&name=small)
 
 
 
@@ -194,7 +194,7 @@ Bennett | Build In Public | AI SAAS SEO Founder @influencer_seo · July 1:
 
 [Finishing June strong at $11.2K per month! #buildinpublic](https://x.com/influencer_seo/status/1807617836380246259)
 
-![](https://pbs.twimg.com/media/GRXyuWPagAA0xpm?format=png&name=900x900)
+![](https://pbs.twimg.com/media/GRXyuWPagAA0xpm?format=png&name=small)
 
 
 [Backlinker AI just hit $50k revenue in 10 months. Currently sitting at $10k MRR 😀😀](https://x.com/influencer_seo/status/1805737745182343661/photo/1)
@@ -233,7 +233,7 @@ quillcap
 
 [update - we're $90 away from $500 in revenue this month 😭🙏💜](https://x.com/eter_inquirer/status/1805256843692048568/)
 
-![](https://pbs.twimg.com/media/GQ2PiGgaoAA5Asy?format=jpg&name=medium)
+![](https://pbs.twimg.com/media/GQ2PiGgaoAA5Asy?format=jpg&name=small)
 
 ##### 4.12 slidy.app creatifly.co
 
@@ -246,7 +246,7 @@ I've gained:
 🤝 2K+ Followers
 💸 $27K+ from 𝕏
 
-![ ](https://pbs.twimg.com/media/GRa0xQIb0AMh-nv?format=jpg&name=900x900)
+![ ](https://pbs.twimg.com/media/GRa0xQIb0AMh-nv?format=jpg&name=small)
 
 
 
@@ -260,7 +260,7 @@ Sebastian Röhl @SebastianRoehl Jul 1:
 💸 $6,981 MRR (0%)
 👥 9015 subscribers (+1%)
 
-![](https://pbs.twimg.com/media/GRYmJ1ma0AAL_Z3?format=jpg&name=900x900)
+![](https://pbs.twimg.com/media/GRYmJ1ma0AAL_Z3?format=jpg&name=small)
 
 
 
@@ -276,7 +276,7 @@ June 2024: $18.50 MRR 🚀
 
 Making some progress
 
-![](https://pbs.twimg.com/media/GRZ08HtaQAAhcn_?format=jpg&name=medium)
+![](https://pbs.twimg.com/media/GRZ08HtaQAAhcn_?format=jpg&name=small)
 
 
 
@@ -291,7 +291,7 @@ Ben Robertson | The Coloring Page Kingpin @benrobertsonio july 2:
  🌎 30k website visitors (down 37%)
 🖼️ 59,587 coloring pages created (up 23%)
 
-![Why did traffic drop? 👇](https://pbs.twimg.com/media/GRa6RvvWQAAoEfI?format=jpg&name=900x900)
+![Why did traffic drop? 👇](https://pbs.twimg.com/media/GRa6RvvWQAAoEfI?format=jpg&name=small)
 
 
 
@@ -345,7 +345,7 @@ Emy@EmyLascan July 2:
 [Design Subscription MRR: $57K (decline) Fixed projects price: $35K](https://x.com/EmyLascan/status/1808053358059741582/)
 
 
-![](https://pbs.twimg.com/media/GRd-8jwb0AIX2b0?format=jpg&name=medium)
+![](https://pbs.twimg.com/media/GRd-8jwb0AIX2b0?format=jpg&name=small)
 
 
 
@@ -367,7 +367,7 @@ Now:
 👩‍💻 1600+ users
 🌀 5936 Devices
 
-![](https://pbs.twimg.com/media/GRecZAWbsAAabEb?format=jpg&name=900x900)
+![](https://pbs.twimg.com/media/GRecZAWbsAAabEb?format=jpg&name=small)
 
 
 
@@ -382,7 +382,7 @@ Steven Tey @steventey July 2:
 ◆ Total active domains → 3,509
 ◆ MRR is up by 20% – we also hit an all-time high in monthly sales 🚀
 
-![](https://pbs.twimg.com/media/GRabzQ5aYAAKgMv?format=jpg&name=900x900)
+![](https://pbs.twimg.com/media/GRabzQ5aYAAKgMv?format=jpg&name=small)
 
 
 
@@ -410,7 +410,7 @@ JK Molina @OneJKMolina Jun25:
 
 [The Numbers Behind an $84,000 MRR Business With Just 1 VA](https://x.com/OneJKMolina/status/1805587432148005019)
 
-![](https://pbs.twimg.com/media/GQ68MItWQAAyeAw?format=png&name=900x900)
+![](https://pbs.twimg.com/media/GQ68MItWQAAyeAw?format=png&name=small)
 
 
 
@@ -639,7 +639,7 @@ Eric Smith @ericsmith1302 May 16:
 
 From $0 to $20K MRR in 90 days! Eric Smith started a SAAS product for creating faceless videos called Autoshorts.ai and scaled it up to $20k MRR in 90 days! In this tweet, he discusses how he did it with affiliates and FB ads.
 
-![](https://pbs.twimg.com/media/GNqRvhmWUAA_H54?format=jpg&name=900x900)
+![](https://pbs.twimg.com/media/GNqRvhmWUAA_H54?format=jpg&name=small)
 
 
 ##### 4.2 rankanything.online sanity.media  stefaniak.cc 
@@ -648,7 +648,7 @@ Tomasz Stefaniak @tomasz_fm Apr 3:
 
 [I've just made my first $ as an indie maker 🥳 Thanks again](https://x.com/tomasz_fm/status/1775251525444534445)
 
-![my first $](https://pbs.twimg.com/media/GKL1X83W8AAdo6E?format=jpg&name=900x900)
+![my first $](https://pbs.twimg.com/media/GKL1X83W8AAdo6E?format=jpg&name=small)
 
 
 
@@ -658,7 +658,7 @@ Rodrigo Rocco 👨‍💻📈📗 from JobBoardSearch 🔎 @rrmdp May 17:
 
 [My boring, simple, with clunky design directory of job boards passed $40k 💵 in revenue 🥳](https://x.com/rrmdp/status/1791428923831493066/photo/1)
 
-![ScreenshotOne.com MRR](https://pbs.twimg.com/media/GNxvHKKWoAAzP7G?format=png&name=900x900)
+![ScreenshotOne.com MRR](https://pbs.twimg.com/media/GNxvHKKWoAAzP7G?format=png&name=small)
 
 
 
@@ -668,7 +668,7 @@ David Park @Davidjpark96 Jun 2:
 
 [May 2024: 💸 $505k MRR (+9.2%)](https://x.com/Davidjpark96/status/1797024209413284232?t=vbytA0zlPhVx7k56Z1cmjQ&s=19)
 
-![Jenni AI MRR](https://pbs.twimg.com/media/GPBJfy3aYAAZ0MY?format=jpg&name=900x900)
+![Jenni AI MRR](https://pbs.twimg.com/media/GPBJfy3aYAAZ0MY?format=jpg&name=small)
 
 
 ##### 4.5  iOS app
@@ -677,11 +677,11 @@ Matt 🚀 @MattCowlin Jun 4:
 
 [Anyone interested in buying an iOS app? ](https://x.com/MattCowlin/status/1797682824335757763)
 
-![Stats](https://pbs.twimg.com/media/GPKm__TW0AAgCEE?format=jpg&name=900x900)
+![Stats](https://pbs.twimg.com/media/GPKm__TW0AAgCEE?format=jpg&name=small)
 
 [APP FOR SALE: 💰 $400-500 MRR](https://x.com/MattCowlin/status/1787491630943007131)
 
-![🤖 AI Niche](https://pbs.twimg.com/media/GM5xCMIWYAAyYXr?format=jpg&name=900x900)
+![🤖 AI Niche](https://pbs.twimg.com/media/GM5xCMIWYAAyYXr?format=jpg&name=small)
 
 
 ##### 4.6 guide on how to acquire products the right way🧵 Growing typeframes.com - revid.ai
@@ -690,7 +690,7 @@ Tibo @tibo_maker Jun 6:
 
 [In the last 3 years, I've bought 11 products for a total of over $400K. One of the most successful acquisition Typeframes just crossed $10k MRR. Long Threads](https://x.com/tibo_maker/status/1800510573290901562)
 
-![Typeframes MRR](https://pbs.twimg.com/media/GPyy0r3XwAEU19p?format=png&name=900x900)
+![Typeframes MRR](https://pbs.twimg.com/media/GPyy0r3XwAEU19p?format=png&name=small)
 
 
 
@@ -700,7 +700,7 @@ levelsio @levelsio Mar 8:
 
 [Passed 15 customers @ $150 MRR for AI life coach 💆](https://x.com/levelsio/status/1765852624018944032)
 
-![AI life coach](https://pbs.twimg.com/media/GIGRes8W4AEbWLO?format=png&name=900x900)
+![AI life coach](https://pbs.twimg.com/media/GIGRes8W4AEbWLO?format=png&name=small)
 
 
 
@@ -710,7 +710,7 @@ Dmytro Krasun @DmytroKrasun Jun 10:
 
 [200 paying customers with a monthly ARPU of $37. ](https://x.com/DmytroKrasun/status/1800196093873164396)
 
-![New milestone 🙌 ](https://pbs.twimg.com/media/GPuTtPTWoAAtAAz?format=jpg&name=900x900)
+![New milestone 🙌 ](https://pbs.twimg.com/media/GPuTtPTWoAAtAAz?format=jpg&name=small)
 
 
 
@@ -720,7 +720,7 @@ Florin Pop 👨🏻‍💻 @florinpop1705:
 
 [Apr 25: $11 MRR - let’s go! 🫡](https://x.com/florinpop1705/status/1783519664351453357)
 
-![Apr 25: $11 MRR - let’s go! 🫡](https://pbs.twimg.com/media/GMBVrl0W8AAZJM9?format=jpg&name=900x900)
+![Apr 25: $11 MRR - let’s go! 🫡](https://pbs.twimg.com/media/GMBVrl0W8AAZJM9?format=jpg&name=small)
 
 
 [May 2: The MRR dream? 👀](https://x.com/florinpop1705/status/1786022891055648865)
@@ -730,23 +730,23 @@ Florin Pop 👨🏻‍💻 @florinpop1705:
 
 [May 5: Getting very close to $100 MRR for http://iCodeThis.com! 🚀](https://x.com/florinpop1705/status/1786819516007112960)
 
-![May 5: Getting very close to $100 MRR for http://iCodeThis.com! 🚀](https://pbs.twimg.com/media/GMwOq26WMAERggx?format=png&name=900x900)
+![May 5: Getting very close to $100 MRR for http://iCodeThis.com! 🚀](https://pbs.twimg.com/media/GMwOq26WMAERggx?format=png&name=small)
 
 
 [May 11: It finally happened! 🥳$100 MRR](https://x.com/florinpop1705/status/1789191429463429255)
 
-![May 11: It finally happened! 🥳$100 MRR](https://pbs.twimg.com/media/GNR8HwIWEAALjA4?format=jpg&name=900x900)
+![May 11: It finally happened! 🥳$100 MRR](https://pbs.twimg.com/media/GNR8HwIWEAALjA4?format=jpg&name=small)
 
 
 [May 19: $200 MRR - let’s go!! 🥳🥳🥳](https://x.com/florinpop1705/status/1783519664351453357)
 
-![May 19: $11 MRR - let’s go! 🫡](https://pbs.twimg.com/media/GMBVrl0W8AAZJM9?format=jpg&name=900x900)
+![May 19: $11 MRR - let’s go! 🫡](https://pbs.twimg.com/media/GMBVrl0W8AAZJM9?format=jpg&name=small)
 
 
 
 [Jun 10：now at $300 MRR 🤩](https://x.com/FlorianMielke/status/1797646988714160436.)
 
-![iCodeThis.com $300 MRR](https://pbs.twimg.com/media/GP13HKeWoAAdBRC?format=jpg&name=900x900)
+![iCodeThis.com $300 MRR](https://pbs.twimg.com/media/GP13HKeWoAAdBRC?format=jpg&name=small)
 
 
 
@@ -758,7 +758,7 @@ Maciej Cupial @maciejcupial Jun 13:
 
 [It ain't much, but it's honest work 🤓 @calendeskcom hit $15k MRR](https://x.com/maciejcupial/status/1801243489440522542)
 
-![calendeskcom hit $15k MRR 🙌](https://pbs.twimg.com/media/GP9Mo2vWQAAOAQ2?format=jpg&name=900x900)
+![calendeskcom hit $15k MRR 🙌](https://pbs.twimg.com/media/GP9Mo2vWQAAOAQ2?format=jpg&name=small)
 
 
 
@@ -768,12 +768,12 @@ Morgan Gao @gaomengen Jun 13:
 
 [After a month of stall, EchoJobs passes 1200 MRR. ](https://x.com/gaomengen/status/1801019376147079347)
 
-![echojobs.io 1200$ MRR](https://pbs.twimg.com/media/GP6BH75WkAEICAc?format=jpg&name=900x900)
+![echojobs.io 1200$ MRR](https://pbs.twimg.com/media/GP6BH75WkAEICAc?format=jpg&name=small)
 
 
 [1,000 USD MRR unlocked for @echojobs__io  membership 👐🎉🎉 On to the next 🤗🤗 #buildinpublic ](https://x.com/gaomengen/status/1783971817360687614)
 
-![1,000 USD MRR unlocked for echojobs.io](https://pbs.twimg.com/media/GMGsOqVXsAAhX1K?format=jpg&name=900x900)
+![1,000 USD MRR unlocked for echojobs.io](https://pbs.twimg.com/media/GMGsOqVXsAAhX1K?format=jpg&name=small)
 
 
 
@@ -783,7 +783,7 @@ Steven Guo - CEO ($12M+ in Ecom) @guotweets Jun 14:
 
 [- Hit $5k MRR with 2k+ active users](https://x.com/guotweets/status/1801343549310394585)
 
-![Built 6 ecom brands to 7 figures](https://pbs.twimg.com/media/GP-oaSjW8AAp5Hc?format=png&name=900x900)
+![Built 6 ecom brands to 7 figures](https://pbs.twimg.com/media/GP-oaSjW8AAp5Hc?format=png&name=small)
 
 
 
@@ -793,7 +793,7 @@ Ayush 🙏 @ayushtweetshere Jun 13:
 
 [A Simple Email Integration app do $8600 MRR](https://x.com/ayushtweetshere/status/1801230600256553169)
 
-![ Email Integration app do $8600 MRR](https://pbs.twimg.com/media/GP9BrxabgAAnrn4?format=jpg&name=900x900)
+![ Email Integration app do $8600 MRR](https://pbs.twimg.com/media/GP9BrxabgAAnrn4?format=jpg&name=small)
 
 
 
@@ -803,7 +803,7 @@ Yusuf Demirci @meyusufdemirci :
 
 [Jun 10,2024: MRR'ı güncelleme zamanı geldi...](https://x.com/meyusufdemirci/status/1800138090209759382)
 
-![Jun 10: MRR'ı güncelleme zamanı geldi...](https://pbs.twimg.com/media/GPtf4OmWQAA93J4?format=jpg&name=900x900)
+![Jun 10: MRR'ı güncelleme zamanı geldi...](https://pbs.twimg.com/media/GPtf4OmWQAA93J4?format=jpg&name=small)
 
 
 [Jun 30, 2023: Gerçek MRR verisi, hem de HTML edit'lemeye gerek kalmadan..](https://x.com/meyusufdemirci/status/1685532366398255104)
@@ -841,7 +841,7 @@ $0 funding. No trust fund. No blue eyes.
 
 [I only needed one thing for €4,639 MRR:](https://x.com/RubenHssd/status/1800182884197703860)
 
-![only needed one thing for €4,639 MRR](https://pbs.twimg.com/media/GPuIyqmWoAEwBq5?format=jpg&name=900x900)
+![only needed one thing for €4,639 MRR](https://pbs.twimg.com/media/GPuIyqmWoAEwBq5?format=jpg&name=small)
 
 
 ##### 4.18 webmaker.app
@@ -871,7 +871,7 @@ Alain@alainhere Jun 14:
 
 [Day 3/30 of sharing my progress every day: up to $177 MRR](https://x.com/alainhere/status/1801598658296570254)
 
-![up to $177 MRR](https://pbs.twimg.com/media/GQCP3OeWIAACcy0?format=png&name=900x900)
+![up to $177 MRR](https://pbs.twimg.com/media/GQCP3OeWIAACcy0?format=png&name=small)
 
 
 ---
@@ -946,7 +946,7 @@ Alexander Belogubov @AlexBelogubov:
 
 [Jun 15: This day has come 👉 $10,000 MRR 🔥](https://x.com/AlexBelogubov/status/1801831909837676645)
 
-![Jun 15: This day has come 👉 $10,000 MRR 🔥](https://pbs.twimg.com/media/GQFkiy3XkAAl0qa?format=png&name=900x900)
+![Jun 15: This day has come 👉 $10,000 MRR 🔥](https://pbs.twimg.com/media/GQFkiy3XkAAl0qa?format=png&name=small)
 
 
 [Jun 10: +$2k MRR in just a month.](https://x.com/AlexBelogubov/status/1800037160524857433)

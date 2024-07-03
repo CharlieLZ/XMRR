@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Issue Update
+    url: https://github.com/CharlieLZ/XMRR/issues/new?template=issue_update.md
+    about: "Use this template to provide updates on the project's progress and key milestones."

@@ -1,8 +1,8 @@
-# 科技爱好者周刊
+# MRR.report from X.com
 
-记录每周值得分享的科技内容，周五发布。
+Check all the whole part of weekly [MRR.report](mrr.report)
 
-欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
+Welcome to submit more [here](https://github.com/CharlieLZ/XMRR/issues) 
 
 > P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/4550)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
 

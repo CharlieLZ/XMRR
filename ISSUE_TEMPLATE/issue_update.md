@@ -15,7 +15,7 @@ assignees: ''
 <!-- Please specify the update date, e.g., 2024-04-20 -->
 
 ### User Name
-<!-- Please specify the user name, e.g., MakerAds.guide>
+<!-- Please specify the user name, e.g., Samuel Thompson @ImSamThompson -->
 
 ### Update Content
 <!-- Briefly describe the content of this update, e.g., new features, bug fixes, etc. -->
@@ -24,17 +24,17 @@ assignees: ''
 <!-- Provide key data for the project, such as revenue, user numbers, etc. -->
 
 #### Example:
-- Project Name: MakerAds.guide
-- Update Date: 2024-04-20
-- User Name: Nico @nico_jeannen
+- Project Name: 72HourSites.com
+- Update Date: 2024-04-11
+- User Name: Samuel Thompson @ImSamThompson
 - Key Data:
-  - MRR (Monthly Recurring Revenue): $15,000
-  - Source: [Nico's Tweet](https://x.com/nico_jeannen/status/1800307667774369926)
+  - ARR (Annual Recurring Revenue): $336,000
+  - Source: [Samuel's Tweet](https://x.com/ImSamThompson/status/1798025823871508736)
 
 ### Attachments
 <!-- Ensure there are relevant screenshots or files, please attach them. For example, revenue screenshots -->
 
-![MakerAds.guide MRR](https://pbs.twimg.com/media/GPvW3d8WUAAE8eR?format=jpg&name=large)
+![72HourSites.com ARR](https://pbs.twimg.com/media/GPPe8riWMAAUhWr?format=png&name=large)
 
 ### Remarks
 <!-- Any other relevant remarks -->

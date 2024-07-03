@@ -67,7 +67,7 @@ Blake Anderson @blakeandersonw · Jun 25:
 
 [$0 to $5 million revenue in 12 months.](https://x.com/blakeandersonw/status/1805396849039392802)
 
-![Started this journey 100% broke.](https://pbs.twimg.com/media/GQ4NzLoaEAAsEIL?format=png&name=1900x1900)
+![Started this journey 100% broke.](https://pbs.twimg.com/media/GQ4NzLoaEAAsEIL?format=png&name=large)
 
 Almost immediately we did 200k downloads on $100 ad spend.
 
@@ -106,7 +106,7 @@ David Park @Davidjpark96 · July 2:
 
 [End of June update: $533k MRR](https://x.com/Davidjpark96/status/1807907048182669783)
 
-![MRR growth has slowed due to summer break, but churn is down (-5.2%), LTV is up (6.6%), and retention is up (~3%)](https://pbs.twimg.com/media/GRb4UI-b0AAbAlZ?format=png&name=1900x1900)
+![MRR growth has slowed due to summer break, but churn is down (-5.2%), LTV is up (6.6%), and retention is up (~3%)](https://pbs.twimg.com/media/GRb4UI-b0AAbAlZ?format=png&name=large)
 
 
 ##### 4.4 tenderpanel.com

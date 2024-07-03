@@ -53,6 +53,150 @@ $ grep -nri [search term] docs | cat --number
 ### **June**
 
 
+---
+title: MRR.report (003) | $0->$2.6k MRR in 4 weeks 🎉
+date: 2024-06-21
+---
+
+
+
+## IV. MRR Updates from X
+
+#####  4.1 SEA Brand Building | CRO Advisor for 7-9-fig brands | 🇸🇬 🇳🇱
+
+Stef @crowizard_stef · Jun 23: 
+
+[MRR is king👑](https://x.com/crowizard_stef/status/1804910293191139737)
+
+![Stef @crowizard_stef](https://pbs.twimg.com/media/GQxUWG9a4AAQkof?format=jpg&name=large)
+
+
+
+##### 4.2 buildspace.so
+
+Arib 🇺🇸🇵🇰 @aribk24 · Jun 20: 
+
+[0 -> 100k mrr in 138 days beat my own record lol](https://x.com/aribk24/status/1803584393040240833)
+
+![0 -> 100k mrr in 138 days](https://pbs.twimg.com/media/GQed4xAbkAAxGzC?format=jpg&name=large)
+
+
+
+##### 4.3 usegravity.app
+
+Kyle Gawley @kylegawley · Apr 9: 
+
+[My new startup just hit $50k MRR 🚀🎉](https://x.com/kylegawley/status/1777624623066018219)
+
+![usegravity.app just hit $50k MRR 🚀🎉](https://pbs.twimg.com/media/GKtkItTaAAAwysY?format=jpg&name=small)
+
+
+[May 8 My new startup hit $437,000 MRR  🎉](https://x.com/kylegawley/status/1777624623066018219)
+
+![usegravity.app just hit $50k MRR 🚀🎉](https://pbs.twimg.com/media/GNEKyH3bUAE0k2a?format=jpg&name=large)
+
+
+
+##### 4.4 roastmylandingpage.com
+
+Wilson Wilson @euboid · Apr 30: 
+
+[ Thanks to 4 changes, we've added $8,000 extra MRR over the last 3 months. Now Senja's growth is on a completely different trajectory.](https://x.com/euboid/status/1784987760836632610)
+
+![roastmylandingpage.com](https://pbs.twimg.com/media/GMWMnglXkAENjXd?format=jpg&name=large)
+
+
+
+##### 4.5 blogrecorder.com
+
+Eddy Vinck @EddyVinckk · Jun 21: 
+
+[24 hours since the launch 🐣 21 new users 🎤 7 articles recorded by new users ⭐️ 1 new annual subscription 💰 $22 MRR](https://x.com/EddyVinckk/status/1803852200218886306)
+
+![](https://pbs.twimg.com/media/GQiQw6-WoAA0xhJ?format=jpg&name=large)
+
+
+
+##### 4.6 ◆ features.vote (building) ◆ custombookquote.com (2/6) ◆ pullnotifier.com (1/6)
+
+gabriel*@gabriel__xyz Jun 23: 
+
+[27 paying users for FeaturesVote! 🥹](https://x.com/gabriel__xyz/status/1804805098477941031)
+
+![27 paying users for FeaturesVote! 🥹](https://pbs.twimg.com/media/GQv0rAiWoAAFh7n?format=jpg&name=large)
+
+
+
+##### 4.7 runpod.io
+
+Jacob @jahvascript · Jun 22: 
+
+[ $405 mrr ✅ wtf won’t report back til $1k](https://x.com/jahvascript/status/1804338236720123992)
+
+[ added payments 10 days ago](https://x.com/jahvascript/status/1804632800425050521)
+
+![ added payments 10 days ago](https://pbs.twimg.com/media/GQtX9zoa4AAgyp3?format=jpg&name=large)
+
+
+##### 4.8 meeko.ai
+
+Edwin @astrooed · Jun 23: 
+
+[So close to €1,000 MRR. While this number is small compared to our other products, it's impressive that we can consistently launch products users are willing to pay for. Still, a lot of work left to do, so back to being locked in. brb 😎](https://x.com/astrooed/status/1804907525156024498)
+
+![So close to €1,000 MRR. ](https://pbs.twimg.com/media/GQxR0_zbYAAeaZX?format=jpg&name=large)
+
+
+
+##### 4.9  famewall.io
+
+Goutham Jay ⚡ @gouthamjay8 · Jun 18: 
+
+[Famewall crosses $2K MRR 🤩 This is a small milestone. I still have a long way to go. P.S. Most of the growth happened last year when I took SEO seriously](https://x.com/gouthamjay8/status/1803021361821942268)
+
+![Famewall crosses $2K MRR ](https://pbs.twimg.com/media/GQWcveGX0AAfK4W?format=jpg&name=large)
+
+
+
+##### 4.10  shipped.club
+
+Luca Restagno 🐢 shipped.club @ikoichi · Mar 20: 
+
+[ New revenues milestone (not MRR, it's a one-time payment product) $15k and 126 paying customers in 4 months.](https://x.com/ikoichi/status/1770465948589314106)
+
+![ $15k and 126 paying customers](https://pbs.twimg.com/media/GJH1ZTQX0AAWICM?format=jpg&name=large)
+
+
+
+##### 4.11 eliasstravik.com
+
+Elias Stråvik @eliasstravik Jun 17: 
+
+[$0->$2.6k MRR in 4 weeks 🎉](https://x.com/eliasstravik/status/1802688273803809102)
+
+![$0->$2.6k MRR in 4 weeks 🎉](https://pbs.twimg.com/media/GQRvJpIaYAAgGKU?format=jpg&name=large)
+
+
+
+##### 4.12 UniqueSide.io 👉 Get your MVP in 15 Days UseArticle.com PagePe.com  UseAI.blog 
+
+Manoj Ahirwar @manoj_ahi Jun 23: 
+
+[After 8 years of building mobile apps I have crossed $3K in ad revenue 🤩](https://x.com/manoj_ahi/status/1804768937571504344)
+
+![ $3K in ad revenue](https://pbs.twimg.com/media/GQvThswbsAAbxen?format=jpg&name=large)
+
+
+
+##### 4.13 artiplate.co
+    
+Fredrik @iamfredrik_ Jun 19: 
+
+[Just got my first sale through organic search 🤯](https://x.com/iamfredrik_/status/1803327824872226942)
+
+![99 USD](https://pbs.twimg.com/media/GQa1BGOWsAADskw?format=jpg&name=large)
+
+
 
 
 
@@ -285,8 +429,7 @@ Kushagra Gour @css_battle @chinchang457 Jun 16:
 
 [Another product’s revenue journey has begun, with http://webmaker.app. Happy to announce that it has reached an MRR of $10 🚀](https://x.com/chinchang457/status/1802251317882314758)
 
-![MRR of $10 webmaker.app](https://pbs.twimg.com/card_img/1802782744910438400/uhJW6UpY?format=png&name=900x900)
-
+![MRR of $10 webmaker.app](https://pbs.twimg.com/card_img/1807870536116015104/y5NIkziN?format=png&name=large)
 
 
 ##### 4.19 Microlaunch.net 
@@ -308,155 +451,6 @@ Alain@alainhere Jun 14:
 [Day 3/30 of sharing my progress every day: up to $177 MRR](https://x.com/alainhere/status/1801598658296570254)
 
 ![up to $177 MRR](https://pbs.twimg.com/media/GQCP3OeWIAACcy0?format=png&name=900x900)
-
-
-
-
-## V. MRR Highlights from reddit
-
-Some posts are clearly written by AI or simply ads/lier promotion.  Reddit removed some of them, I filtered some too.
-
-#####  5.1 at $12k MRR mark but too close to burning out
-
-[Just reached $12k MRR after 5 months](https://www.reddit.com/r/Entrepreneur/comments/1dddeco/just_reached_12k_mrr_after_5_months_with_my/)
-
-I switched from a DFY offer to a DWY offer, working with people to build out their entire social media marketing funnel (content, lead funnel, email marketing, personal branding, etc)
-
-
-#####  5.2 My 1st paying customer! $58 MRR
-
-[My service provides monthly leads of high-net-worth individuals and angel investors to real estate investors and startups looking to raise capital.](https://www.reddit.com/r/SaaS/comments/1ddzgvp/my_1st_paying_customer_58_mrr/)
-
-**Grow your Twitter account. That's how I goty most of the clients (103 to be exact) and reached 5k per month. Another one I did is to buy slots on newsletters like byte thesis, tldr, etc.**
-
-
-#####  5.3 20K MRR in 1 month - Stripe destroyed everything in 1 second
-
-[Stripe blocked my account, labeling it as "high risk." They withdrew $6,000 from my account and refunded legitimate customers](https://www.reddit.com/r/stripe/comments/1dfwhvs/20k_mrr_in_1_month_stripe_destroyed_everything_in/)
-
-> Lost 10k MRR. Switched to paddle and everything has been fine since then.
-
-> Stripe absolutely cannot be trusted for subscriptions, especially if you have a free trial.
-
-> ["Content creation platforms (See the FAQs for additional details) Platforms that host or distribute third-party content and enable content creators to: Receive content-related tips and other payments in exchange for their content Sell exclusive content or digital goods"](https://stripe.com/legal/restricted-businesses#restricted-businesses)
-
-> EDIT: Actually you can even fall into the zero value add prohibited business category as I assume you are using some off-the-shelf AI video clip service and just reselling a different front end to it.
-
-> "No value added services including the sale or resale of a service without added benefit to the buyer and resale of government offerings without authorization or added value"
-
-
-[[flagged in ycombinator] $20k MRR in one month, Stripe destroyed everything on 1 second (twitter.com/theanimeshs)](https://news.ycombinator.com/item?id=40697234)
-
-
-##### 5.4 How I added $24k in mrr by sending cold emails.
-
-[you don't need crazy ai generated copy to make cold outbound work. If you do your homework and build a quality list and add relevance to your emails, you should be able to generate a pipeline using email.](https://www.reddit.com/r/Entrepreneur/comments/1ddibhv/how_i_added_24k_in_mrr_by_sending_cold_emails/)
-
-> bought 50 new domains and created 3 inboxes on each. That brought our sending capacity from around 1k emails / day to around 4500 per day.
-
-> asked my developer to scrape around 20 directories, uploaded the lists to Clay, used apollo api to find founder first and last names and then used findymail + icypeas to find emails. That process got us around 7k email addresses to reach out to.
-
-> The more time you spend refining your list, the better your results are going to be
-
-Tools I use (not affiliated with any)
-Findymail and Icypeas - finding emails from LI urls and names and dmoamins
-Clay - clean, score and enrich lists and build personalization points
-Gsuite - inboxes
-Instantly - email sequencer
-Porkbun - domains
-Apollo - finding founders and other target roles
-
-##### 5.5  Started a Skool. 1.2k MRR in one week using my email list
-
-[Just do it - Don't worry about the first round being perfect. The most important thing is actually getting the thing done. Finishing a course is going to give you the confidence to either rebuild it or start the next one. Don't get too caught up in being perfect. I own a software company, and trust me, the first version of our software company sucked - if I sat there and compared it to everyone else, we would be no where near where we are today. Just go through the mud and always iterate.](https://www.reddit.com/r/Entrepreneur/comments/1dgw07i/started_a_skool_12k_mrr_in_one_week_using_my/)
-> I then created a Facebook group for my niche. This is kind of wild, but it has 210k members in it. I got lucky and started it right when Facebook started promoting groups about 2 years ago and rode the wave of that. But, luck met me after I had already took action and started a Facebook group anyway.
-
-> I designed my course to be super simple, and took a screenshot of all of the lessons and threw those into my email marketing and marketing posts - this way they could see that the lessons were short and manageable. Nobody wants as freakin 15-20 lesson power course. Feels like a novel book - give me the info and let me go apply it.
-
-
-
-##### 5.6  replyhub.co [POSSIBLY AI WRITTEN]
-
-[From 0 to $344 MRR on autopilot in just 5 days](https://www.reddit.com/r/EntrepreneurRideAlong/comments/1dfqzvn/from_0_to_344_mrr_on_autopilot_in_just_5_days/)
-
-> I set up the tool to track relevant discussions on Reddit, sending out personalized messages and engaging with users.
-
-> It was capturing leads and engaging users without my constant input
-
-
-##### 5.7 single video costed them $1150 and output $4000 USD MRR 
-
-[How I turned a $1150 gig into a productized service idea](https://www.reddit.com/r/SaaS/comments/1dd7kgf/how_i_turned_a_1150_gig_into_a_productized/)
-
-> I went on Linkedin and reached 10 people, having growth marketing as their job titles.
-
-
-##### 5.8 OurBaby.pics Split.Cafe
-
-[i'm selling 2 AI projects for $1,000](https://www.reddit.com/r/EntrepreneurRideAlong/comments/1ddk4bp/im_selling_2_ai_projects_for_1000/)
-
-
-##### 5.9  How I leveraged Instagram account followings to make money/How I made $3,000 a month for the past two months
-[SAME POST REPEATEDLY SENT]
-
-[After a lot of grinding and a lot of messages I had gained clients and five months later I’m at the point where I have 31 affiliates selling my e books and courses in their bio. The total following of these accounts is 8.4 million followers across all platforms - a following I would not have been able to attain myself with my content creation skills.
-
-The numbers, what everyone is here for! This method has generated me $11,000 in profit since January (50% of sales went to affiliates so $22,000 revenue). Things started out slow but are picking up fast, last month has been particularly good, generating me $3,000 in profit from easy and passive income.](https://www.reddit.com/r/socialmedia/comments/1dhb3oj/how_i_leveraged_instagram_account_followings_to/)
-
-> ask social media accounts with an established following to put the link in their bio and I would offer them a percentage of every sale they make (I offered a 50/50 cut)
-
-> targeted accounts with large followings that did not have any links currently in their bio
-
-> a lot of people have a great ability to create content, but perhaps do not have the business acumen or have the motivation to create a revenue stream themselves
-
-Problems and issues I’ve encountered: understandingly so the accounts often want to see the product they are selling before they agree to be an affiliate for the product. I originally had a problem finding high quality products, I am not going to name the website I would recommend for those looking high quality plr on here as I received downvotes last time
-
-Why do I recommend this method? 1.) Once established this method is completely passive 2.) You gain exposure to large followings that would take years to build. 3.) relatively low set up costs. The bundle I recommend purchasing is $199 and shopify monthly payments are roughly $50 per month. There are no other costs incurred. 4.) unlimited earnings potential. There’s no ceiling as to what you can earn. The more accounts that agree to become an affiliate for you the more you will make
-
-
-##### 5.10  no mention
-
-[Stuck at $55 MRR... plz help!](https://www.reddit.com/r/SaaS/comments/1dcot1a/stuck_at_55_mrr_plz_help/)
-
-No one comment so I replied: talk to your customer, why they paid you, ask for refer
-
-
-#### Summary
-
-| Website/Project | User | MRR |
-|-----------------|------|-----|
-| AutoShorts.ai | @ericsmith1302 | $55K |
-| NicheScraper | @ericsmith1302 | $30K |
-| CopyGenius.io | @ericsmith1302 | $20K |
-| rankanything.online | Tomasz Stefaniak @tomasz_fm | First $ |
-| sanity.media | Tomasz Stefaniak @tomasz_fm | First $ |
-| stefaniak.cc | Tomasz Stefaniak @tomasz_fm | First $ |
-| JobBoardSearch.com | Rodrigo Rocco @rrmdp | $40K |
-| PropertyDescriptionAI.com | Rodrigo Rocco @rrmdp | $40K |
-| ReviewReplyAI.com | Rodrigo Rocco @rrmdp | $40K |
-| 24HoursVet.com | Rodrigo Rocco @rrmdp | $40K |
-| TouristItinerary.com | Rodrigo Rocco @rrmdp | $40K |
-| jenni.ai | David Park @Davidjpark96 | $505K |
-| iOS app | Matt 🚀 @MattCowlin | $400-500 |
-| guide on how to acquire products the right way | Tibo @tibo_maker | $10K (Typeframes) |
-| cbt.chat | @levelsio | $150 |
-| ScreenshotOne.com | Dmytro Krasun @DmytroKrasun | $200usd customers ARPU $37usd |
-| iCodeThis.com | Florin Pop 👨🏻‍💻 @florinpop1705 | $300 |
-| calendeskcom | Maciej Cupial @maciejcupial | $15K |
-| echojobs.io | Morgan Gao @gaomengen | 1200 |
-| Built 6 ecom brands to 7 figures | Steven Guo - CEO @guotweets | $5K |
-| Superframeworks.com | Ayush 🙏 @ayushtweetshere | - |
-| indiemasterminds.com | Ayush 🙏 @ayushtweetshere | - |
-| cohort.indiemasterminds.com | Ayush 🙏 @ayushtweetshere | - |
-| elephas.app | Ayush 🙏 @ayushtweetshere | $8600 |
-| yusufdemirci.me | Yusuf Demirci @meyusufdemirci | - |
-| youform.com | Abhishek from Youform @themkmaker | $35K in 4 months |
-| ProtoUI.dev | Adri @adriano_t_ | $5 |
-| easygen.io | Ruben Hassid @RubenHssd | €4,639 |
-| webmaker.app | Kushagra Gour @css_battle @chinchang457 | $10 |
-| Microlaunch.net | Saïd Aitmbarek @SaidAitmbarek | - |
-| lunelearning.com | Alain@alainhere | $177 |
-
 
 
 ---
@@ -668,40 +662,5 @@ Nico @nico_jeannen Jun 11:
 [Now it’s closer to $15,000](https://x.com/nico_jeannen/status/1800307667774369926)
 
 ![MakerAds.guide MRR](https://pbs.twimg.com/media/GPvW3d8WUAAE8eR?format=jpg&name=large)
-
-
-#### Summary
-
-| Product Post                                               | UserName            | MRR        |
-|----------------------------------------------------|-------------------------|------------|
-| [sketchlogo.ai](https://indieniche.substack.com/p/from-idea-to-84k-revenue-building?r=3q3p07&utm_medium=ios&triedRedirect=true) | Berk           | $8.4k      |
-| [conversionlabs.framer.website](https://x.com/0xPaulius/status/1800422745127170375) | Paulius @0xPaulius      | $4k        |
-| [aiclones.co](https://x.com/0xPaulius/status/1800422745127170375)                   | Paulius @0xPaulius      | $4k        |
-| [ScreenshotOne.com](https://x.com/DmytroKrasun/status/1797652070721294584)           | Dmytro Krasun           | $7,498     |
-| [capgo.app](https://x.com/martindonadieu/status/1800506929434837137)                 | Martin Donadieu         | $4k        |
-| [Instantly.design](https://x.com/HamzaAhrbil/status/1798787078529933373)             | Hamza @HamzaAhrbil      | $0         |
-| [scribbl.co](https://x.com/DmytroKrasun/status/1797652070721294584)                  | Mike Sallese @MikeSallese9 | $10.3k  |
-| [mikesallese.me](https://x.com/DmytroKrasun/status/1797652070721294584)              | Mike Sallese @MikeSallese9 | $10.3k  |
-| [jimdesigns.co](https://x.com/JimDesignsCo/status/1797979412895506695)               | Jim Designs @JimDesignsCo | Not Listed |
-| [WorkTimes.app](https://x.com/FlorianMielke/status/1797646988714160436.)             | Florian Mielke          | $10k       |
-| [MinuteTaker.app](https://x.com/FlorianMielke/status/1797646988714160436.)           | Florian Mielke          | $10k       |
-| [BusinessGrowR.com](https://x.com/iamandypham/status/1798528917524902041)            | Andy - Marketing For Traders @iamandypham | Not Listed |
-| [72HourSites.com](https://x.com/ImSamThompson/status/1798025823871508736)            | Samuel Thompson @ImSamThompson | $336k ARR |
-| [kaptivate.it](https://x.com/kreativekasper/status/1797565237886943261)              | Kasper⚜️@kreativekasper | 20,170€    |
-| [Baked.design](https://x.com/eliasstravik/status/1797581329573281916)                | Elias Stråvik @eliasstravik | $2k    |
-| [eliasstravik.com](https://x.com/eliasstravik/status/1797581329573281916)            | Elias Stråvik @eliasstravik | -    |
-| [guineapig.app](https://x.com/eliasstravik/status/1797581329573281916)               | Elias Stråvik @eliasstravik | $10k    |
-| [gladysassistant.com](https://x.com/pierregillesl/status/1797595032465391861)        | Pierre-Gilles Leymarie @pierregillesl | -   |
-| [pierregillesleymarie.com](https://x.com/pierregillesl/status/1797595032465391861)   | Pierre-Gilles Leymarie @pierregillesl | 1813 €  |
-| [20DollarConsulting.com](https://x.com/RobertMSterling/status/1798922573839008000)   | Robert Sterling @RobertMSterling | Not Listed |
-| [beehiiv.com](https://x.com/denk_tweets/status/1798349898989158674)                  | Tyler Denk @denk_tweets  | $800k      |
-| [supergrow.ai](https://x.com/devenbhooshan/status/1798995823659041207)               | Deven @devenbhooshan    | $10,000+   |
-| [ScreenCharm.com](
-
-https://x.com/snazarofff/status/1800055367029641723)               | Sergey Nazarov @snazarofff | Not Listed |
-| [MakerAds.guide](https://x.com/nico_jeannen/status/1800307667774369926)              | Nico @nico_jeannen      | $15,000    |
-| [SalesPopup.io](https://x.com/nico_jeannen/status/1800307667774369926)               | Nico @nico_jeannen      | -    |
-| [jeannen.com](https://x.com/nico_jeannen/status/1800307667774369926)                 | Nico @nico_jeannen      | -    |
-
 
 

@@ -1,6 +1,6 @@
 # MRR.report from X.com
 
-Check all the whole part of weekly [MRR.report](mrr.report)
+Check out the whole part of weekly [MRR.report](mrr.report)
 
 Welcome to submit more [here]([https://github.com/CharlieLZ/XMRR/issues](https://github.com/CharlieLZ/XMRR/issues/new?template=issue_update.md)) 
 

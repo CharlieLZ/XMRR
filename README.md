@@ -9,7 +9,7 @@ Welcome to submit more [here]([https://github.com/CharlieLZ/XMRR/issues](https:/
 
 ### About
 
-I spent a whole day to finish these reports.
+I spent a whole day to finish these reports(once a week).
 
 Using the following keywords to search in X & reddit via gogole:
 

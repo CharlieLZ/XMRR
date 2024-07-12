@@ -50,6 +50,189 @@ $ grep -nri [search term] docs | cat --number
 
 ## 2024
 
+### **July**
+
+---
+title: MRR.report (005) | Roadmap to bootstrapping Designjoy to 100k MRR
+date: 2024-07-07
+---
+
+
+## IV. MRR Updates from X
+
+#####  4.1 ResumeMaker.online
+
+Fernando Pessagno @Fer_MOMENTO · Jul 11 
+
+[$3,000 MRR!!! 🚀💰](https://x.com/Fer_MOMENTO/status/1811114082050675155)
+
+![I nearly burned out while revamping the whole product from scratch – it was a big pivot, and a quite risky one as well.](https://pbs.twimg.com/media/GSJd7PdXIAEmSfe?format=jpg&name=900x900)
+
+
+##### 4.2  supergrow.ai 
+Utsav @utsavpm · July 7: 
+
+[15 months of building a SaaS 🚀](https://x.com/utsavpm/status/1809671602923270634)
+
+→ $11K MRR
+→ Fully bootstrapped 💪
+→ 2-person remote team
+→ No VC pressure
+
+![](https://pbs.twimg.com/media/GR0-e47WUAEtwVX?format=jpg&name=900x900)
+
+
+##### 4.3 Docsium.com 
+
+Damon Chen @damengchen · July 9: 
+
+[A small win to celebrate 🎉](https://x.com/damengchen/status/1810381540679102926)
+
+just hit $833 MRR, a small project I bought last year for $7k.
+
+The growth purely relies on its listing on Google Workspace Marketplace, with nearly no maintenance effort.
+
+![](https://pbs.twimg.com/media/GR_EaV6aMAM2rNQ?format=png&name=small)
+
+
+##### 4.4 🎨 Designjoy.co: $145K MRR ✍️ ProductizeYourself.co: $12K MRR
+
+Brett@ Designjoy @BrettFromDJ · July 13,2023: 
+
+[Roadmap to bootstrapping Designjoy to 100k MRR 👇](https://x.com/BrettFromDJ/status/1679501620550434816)
+→ $0 - $10K: 3 years 😅
+→ $10k - $20k: 2 months
+→ $20k - $40k: 8 months
+→ $40k - $60k: 3 months
+→ $60k - $80k: 8 months
+→ $80k - $100k: 1 month
+![](https://pbs.twimg.com/media/F07J0p9aUAAVB10?format=jpg&name=900x900)
+
+
+##### 4.5  pmfm.ai 
+
+Aditya Saxena @adi808080 July 7:
+
+[$1,000 MRR!!!! ✅](https://x.com/adi808080/status/1809953026628600087)
+
+After 6 months of building and growing my AI app development platform, I've finally hit this major milestone. Interestingly, it took 5 months to go from 0 to 500 but less than a month for 500 to 1k 😮
+
+Oct. 2023 - Dec. 2023 (Idea & Getting users)
+Dec. 2023 - Jan. 2024 (Launch):
+Jan. 2024 - Current(Growth):
+
+What has worked: 
+- Meta ads with a clear messaging about the product and a CTA. I've spent close to $200 on Meta ads so far and the conversion rate has been 2x!
+- Affiliate marketing: I'm rewarding affiliates with a 35% commission on all paid sales. It costs me $29/mo to run the program but it makes up for 2% of my subscriptions. 
+- Testimonials: I use another service for collecting text + video testimonials which costs me $19/mo, so far I've collected almost 20 quality testimonials from customers and featured them on the home page. Testimonials help build trust - people like to use products that are trusted by others. 
+- Organic growth: majority of the customers discover my platform organically or by word of mouth, which is the best form of marketing. 
+- Product demo videos: I started screen recording myself building AI apps and shared clips on YT, X, and LinkedIn. 
+- Reddit: This is the ultimate, unbiased validation imo. if you can get ppl to appreciate ur product there, then it definitely has some real potential! For me, what seemed to work was to show how creators were making money for real on the platform. 
+- Blogging: I've written several articles discussing how the platform works and the problems it can solve. It costs me $0 to maintain the Medium blog and has brought me a lot of traffic. 
+- Network effects: this is a product advantage, most of the apps built through my platform have a "powered by pmfm" label and link to the platform. 
+- Building in public and sharing progress updates (like this) which attracts creator and other founder customers. More importantly, it helps me remain accountable as a solo founder! 
+
+![](https://pbs.twimg.com/media/GR4-ogcXwAAAv6W?format=png&name=900x900)
+
+
+##### 4.6  1000.tools
+
+David Gutiérrez @dgut_ July 5:
+
+[From sharing every growth chart to facing life's tough breaks](https://x.com/dgut_/status/1809191872763428903)
+
+In the first 4 months post-launch,  @1000_tools  hit $15K in total revenue
+
+Then life threw a curveball—my son was diagnosed with OCD, pulling me away from work
+
+May saw our lowest MRR at $1.1K
+
+![](https://pbs.twimg.com/media/GRuIAuNXwAAWuqH?format=png&name=small)
+
+##### 4.7  GridStats.pro
+
+Zacharie R. @zacharier_18 July 10：
+
+[I JUST MADE MY FIRST SAAS SALE! 🚀](https://x.com/zacharier_18/status/1811021485537972496)
+
+![](https://pbs.twimg.com/media/GSIKcahbkAATW2R?format=jpg&name=900x900)
+
+
+
+##### 4.8  AskCory.ai
+
+Vítor Soares @Vitor_pvsoares July 8:
+
+[Slowly but in the right direction, until the product-market fit is right and we can put our foot on the accelerator pedal](https://x.com/Vitor_pvsoares/status/1810250050083115160)
+
+![](https://pbs.twimg.com/media/GR9MvQEXIAAj6Vs?format=png&name=small)
+
+
+##### 4.9  blacktwist.app 
+
+Luca Restagno 🐢 shipped.club @ikoichi July 2:
+
+[The first MRR of a new SaaS always hits differently](https://x.com/ikoichi/status/1808078167632236721)
+
+![](https://pbs.twimg.com/media/GReVgrbaQAA0AJd?format=jpg&name=900x900)
+
+
+##### 4.10  sublaunch.com
+
+Julien | Sublaunch 🏴‍☠️ @sublaunch_com July 11:
+
+[$100k profit in 70 days for my SaaS Sublaunch.](https://x.com/sublaunch_com/status/1811117071003951299)
+
+70 consecutive days with more than $1k profit per day. $19 cost per day. 
+So, 98.1% net margin.
+
+![](https://pbs.twimg.com/media/GSJgJKMXAAAoP3_?format=png&name=900x900)
+
+
+##### 4.11   revid .ai
+
+Tibo @tibo_maker July 8：
+
+[Crossed $150,000+ ARR with revid .ai 🤯](https://x.com/tibo_maker/status/1810256037049500021)
+
+On my way to create the Tweet Hunter of short videos 😈
+
+![](https://pbs.twimg.com/media/GR9SRUnXUAA2NSI?format=jpg&name=900x900)
+
+
+##### 4.12  Backlinker.AI
+
+ennett | Build In Public | AI SAAS SEO Founder @influencer_seo July 8:
+
+[On my way to the moon 🌙](https://x.com/influencer_seo/status/1809992770662412528)
+
+![](https://pbs.twimg.com/media/GR5ix5xaQAAIp2p?format=jpg&name=900x900)
+
+
+##### 4.13  basedlabs.ai
+
+Michael Aubry — BasedLabs.ai @michaelaubry July 11:
+
+[These are the mental components I’ve been using to get to $27k MRR](https://x.com/michaelaubry/status/1811126981452517758)
+
+![](https://pbs.twimg.com/media/GSJqY--aUAIJwDJ?format=jpg&name=large)
+
+
+##### 4.14  foundersowl.com
+
+Jordan M @DevMolone July 11:
+
+[Exponential growth: initiated 🚀 ](https://x.com/DevMolone/status/1811069534918562059)
+
+✅ $6.1k total revenue 
+✅ $2.6k MRR 
+
+Partnered with a new founder today. Will be targeting high ticket clients. 
+
+![](https://pbs.twimg.com/media/GSI2JDLWsAE8leC?format=jpg&name=900x900)
+
+
+
 ### **June**
 
 ---

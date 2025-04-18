@@ -39,9 +39,7 @@ The weekly newsletter will accumulate a lot of content graudally, which can be s
 
 1. **Using GitHub's built-in web search.**
 
-2. **Using [Sourcegraph.com](https://sourcegraph.com/github.com/ruanyf/weekly) for searching.**
-
-3. **Cloning this repository to your local machine and then using the following command in the repository directory:**
+2. **Cloning this repository to your local machine and then using the following command in the repository directory:**
 
 ```bash
 $ grep -nri [search term] docs | cat --number
